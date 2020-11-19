@@ -1,12 +1,12 @@
 module.exports = {
   siteMetadata: {
-    title: `LAP TECH`,
+    title: `LAP-TECH`,
     author: {
       name: `LAP`,
       summary: ``,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://lap-tech-demo.netlify.app/`,
+    siteUrl: `https://altmanwong.github.io/`,
     social: {
       twitter: `nullptrexpt`,
     },
