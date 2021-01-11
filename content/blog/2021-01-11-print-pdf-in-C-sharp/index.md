@@ -3,7 +3,7 @@ title: Print PDF in C#
 date: "2021-01-11T13:28:03.284Z"
 description:
 hashtag: C#,技術隨筆
-cover:  cover。jpg
+cover:  cover.jpg
 ---
 
 近來工作需要要用到 Print PDF 嘅 function，所以就上網周圍搵點 print PDF
